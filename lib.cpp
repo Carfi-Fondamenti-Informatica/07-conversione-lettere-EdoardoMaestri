@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 bool lettera (char &a)
 {
     if(((a>=65)&&(a<=90))||((a>=97)&&(a<=122)))
