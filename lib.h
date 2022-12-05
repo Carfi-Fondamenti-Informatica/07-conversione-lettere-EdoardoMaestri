@@ -3,5 +3,6 @@
 
  bool lettera (char &a);
 
+
 #endif //ESERCITAZIONI_LETT_H
 
