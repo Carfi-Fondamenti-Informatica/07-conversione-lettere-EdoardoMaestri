@@ -1,5 +1,17 @@
 #include <iostream>
+#include "lett.h"
+using namespace std;
+
 
 int main(){
-  return 0;
+    char a;
+    cin >> a;
+
+    if(lettera(a)) {
+        cout << a << endl;
+    } else
+    {
+        cout << "errore" << endl;
+    }
+    return 0;
 }
